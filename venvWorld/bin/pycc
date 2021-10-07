@@ -1,0 +1,3 @@
+#!/homes/bdoc3/Python-Wrapper-for-World-Vocoder/venvWorld/bin/python
+from numba.pycc import main
+main()
